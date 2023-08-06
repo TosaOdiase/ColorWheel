@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - Color Wheel
 
-Submitted by: **Your Name Here**
+Submitted by: Tosa Odiase
 
-**Name of your app** is an app that... [TODO] 
+Color Wheel is an app that allows the user to change the background of the app to a random color with a single click of a button.
 
-Time spent: **X** hours spent in total
+Time spent: 2.5 hours spent in total
 
 ## Required Features
 
