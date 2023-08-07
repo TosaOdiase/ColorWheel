@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![Kapture 2023-08-07 at 00 47 57](https://github.com/TosaOdiase/ColorWheel/assets/140124217/c64b3be0-b62b-4757-a54d-6184d98c0234)
+![Kapture 2023-08-07 at 02 58 32](https://github.com/TosaOdiase/ColorWheel/assets/140124217/a80115f4-6a70-42ff-8857-1afa0d0877b9)
 
 GIF created with Kap 
 
@@ -49,7 +49,9 @@ App Improvement Idea
  
 ## Notes
 
-My biggest challenge was debugging. I had accidentally assigned my changeColor button to an IBOutlet instead of IBAction.
+- My biggest challenge was debugging. I had accidentally assigned my changeColor button to an IBOutlet instead of IBAction.
+- Added a reset button that changes the background color back to white. 
+
 
 ## License
 
