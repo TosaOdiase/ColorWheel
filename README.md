@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![Kapture 2023-08-07 at 02 58 32](https://github.com/TosaOdiase/ColorWheel/assets/140124217/a80115f4-6a70-42ff-8857-1afa0d0877b9)
+![Kapture 2023-08-07 at 02 58 32](https://github.com/TosaOdiase/ColorWheel/assets/140124217/ac9064d2-e7db-4391-8344-ed19c0856395)
+
 
 GIF created with Kap 
 
