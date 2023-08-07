@@ -17,10 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![Uploading Kapture 2023-08-06 at 10.01.30.gif…]()
+![Kapture 2023-08-07 at 00 47 57](https://github.com/TosaOdiase/ColorWheel/assets/140124217/c64b3be0-b62b-4757-a54d-6184d98c0234)
 
-
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
 
 ## App Brainstorming (Step 4)
